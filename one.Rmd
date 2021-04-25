@@ -1,0 +1,38 @@
+---
+title: "Week one"
+author: "Lucciana Chambilla"
+date: "April 25, 2021"
+output: html_notebook
+---
+
+# Estadística
+## SUBTÍTULO
+### TRES MICHIS
+##### CUATRO MICHIS
+####### CINCO MICHIS
+######## SEIS MICHIS
+######### SIETE MICHIS
+
+*cursiva*  
+**negrita**  
+***cursivanegrita***
+
+![](/Users/luccianachambilla/estadistica/Laboratorio/Week1/logo.png)
+
+![](/Users/luccianachambilla/estadistica/Laboratorio/Week1/gato.jpeg)
+![](gato.jpeg)
+[ir a gogle](https://www.avast.com/c-how-to-find-ip-address#:~:text=Open%20the%20Windows%20Start%20menu,address%20in%20the%20new%20window.)
+
+ *Nombres* | Apellido| núemro
+-|-|-
+Dante | Gallo|ll
+Brandon | Campos|ll
+
+```{r}
+1+1
+```
+
+
+```{r}
+```
+
