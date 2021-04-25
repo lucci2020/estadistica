@@ -1,0 +1,2 @@
+# estadistica
+apuntes_estadistica_luccianachambilla
