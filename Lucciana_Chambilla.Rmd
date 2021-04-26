@@ -1,0 +1,52 @@
+---
+title: "Statistics and probabilities"
+author: "lucciana.chambilla@utec.edu.pe"
+date: "April 25, 2021"
+output: html_document
+---
+***
+
+### <span style="color:Blue">R for Data Science-Notes
+
+University of Engineering and Technology - Perú 
+
+![](logo.png)
+
+
+
+<span style="color:Purple">Code |<span style="color:Purple">Student
+-|-
+202010228| Lucciana Debora Chambilla Mamani 
+
+***
+
+* Unordered List
+* Ordered List
+* Boards
+* Pictures
+* Text 
+* Bold Font
+* cursive
+* Bold Font + cursive
+
+
+***
+### <span style="color:Blue"> Workflow: basics
+
+ 1. Coding basics
+ 1. What’s in a name?
+ 1. Calling functions
+ 1. Exercises
+ 1. Practice
+  
+*Thank you for seeing this video :D!*  
+**Lucciana Chambilla**  
+***Hope to see you in another video***  
+
+ 
+ 
+
+
+
+
+
